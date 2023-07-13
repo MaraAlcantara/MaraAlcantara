@@ -1,4 +1,4 @@
-Bem vindos (a) ao meu Pefil! 😁 
+Bem-vindo(a) ao meu Pefil! 😁 
 
 <div>
   <a href="https://github.com/maraalcantara">
