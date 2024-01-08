@@ -3,7 +3,7 @@
 
 <p>👩‍💻 Estudante de Engenharia de Software
   
-Estou no 6º semestre do curso de Engenharia de Software, buscando o máximo de conhecimento possível em Desenvolvimento Web - Full Stack!
+Cursando o 7º semestre do curso de Engenharia de Software, buscando o máximo de conhecimento possível em Desenvolvimento Web - Full Stack!
 
 Atualmente estou em busca de estágios na área para que possa iniciar essa nova carreira pela qual sou apaixonada!</p>
 
